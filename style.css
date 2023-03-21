@@ -3,13 +3,13 @@ html {
 }
 
 html {
-  background-color: #00539F;
+  background-color: #364125;
 }
 
 body {
   width: 600px;
   margin: 20px auto;
-  background-color: #FF9500;
+  background-color: #e6cdcd;
   padding: 0 20px 20px 20px;
   border: 5px solid black;
 }
@@ -19,7 +19,7 @@ h1 {
   text-align: center;
   margin: 0;
   padding: 20px 0;
-  color: #00539F;
+  color: #ffee00;
   text-shadow: 3px 3px 1px black;
 }
 
